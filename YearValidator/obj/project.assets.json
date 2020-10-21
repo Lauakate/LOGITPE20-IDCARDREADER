@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\LOGITpe20\\LOGITpe20.csproj",
-      "projectName": "LOGITpe20",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\LOGITpe20\\LOGITpe20.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\YearValidator\\YearValidator.csproj",
+      "projectName": "YearValidator",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\YearValidator\\YearValidator.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\LOGITpe20\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\YearValidator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",

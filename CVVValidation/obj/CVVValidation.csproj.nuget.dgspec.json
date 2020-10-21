@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\LOGITpe20\\LOGITpe20.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\CVVValidation\\CVVValidation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\LOGITpe20\\LOGITpe20.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\CVVValidation\\CVVValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\LOGITpe20\\LOGITpe20.csproj",
-        "projectName": "LOGITpe20",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\LOGITpe20\\LOGITpe20.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\CVVValidation\\CVVValidation.csproj",
+        "projectName": "CVVValidation",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\CVVValidation\\CVVValidation.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\LOGITpe20\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\CVVValidation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
